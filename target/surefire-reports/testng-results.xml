@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-08T12:30:55 IST" name="Suite" finished-at="2025-04-08T12:31:20 IST" duration-ms="24794">
+    <groups>
+      <group name="smoke">
+        <method signature="HelpsPageTest.validateHelpsBoxTitleAndsubtitle()[pri:2, instance:in.redbus.testClasses.HelpsPageTest@7a675056]" name="validateHelpsBoxTitleAndsubtitle" class="in.redbus.testClasses.HelpsPageTest"/>
+      </group> <!-- smoke -->
+      <group name="Smoke">
+        <method signature="HelpsPageTest.validatehelpPageTitle()[pri:1, instance:in.redbus.testClasses.HelpsPageTest@7a675056]" name="validatehelpPageTitle" class="in.redbus.testClasses.HelpsPageTest"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2025-04-08T12:30:55 IST" name="test" finished-at="2025-04-08T12:31:20 IST" duration-ms="24794">
+      <class name="in.redbus.testClasses.HelpsPageTest">
+        <test-method is-config="true" signature="initiateReport()[pri:0, instance:in.redbus.testClasses.HelpsPageTest@7a675056]" started-at="2025-04-08T12:30:55 IST" name="initiateReport" finished-at="2025-04-08T12:30:55 IST" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateReport -->
+        <test-method is-config="true" signature="initiateSetup(org.testng.ITestResult)[pri:0, instance:in.redbus.testClasses.HelpsPageTest@7a675056]" started-at="2025-04-08T12:30:55 IST" name="initiateSetup" finished-at="2025-04-08T12:31:02 IST" duration-ms="6512" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=HelpsPageTest.validatehelpPageTitle()[pri:1, instance:in.redbus.testClasses.HelpsPageTest@7a675056] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateSetup -->
+        <test-method signature="validatehelpPageTitle()[pri:1, instance:in.redbus.testClasses.HelpsPageTest@7a675056]" started-at="2025-04-08T12:31:02 IST" name="validatehelpPageTitle" description="Validate Helps Page Title" finished-at="2025-04-08T12:31:08 IST" duration-ms="6094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatehelpPageTitle -->
+        <test-method is-config="true" signature="getReports(org.testng.ITestResult)[pri:0, instance:in.redbus.testClasses.HelpsPageTest@7a675056]" started-at="2025-04-08T12:31:08 IST" name="getReports" finished-at="2025-04-08T12:31:09 IST" duration-ms="1165" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validatehelpPageTitle status=SUCCESS method=HelpsPageTest.validatehelpPageTitle()[pri:1, instance:in.redbus.testClasses.HelpsPageTest@7a675056] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReports -->
+        <test-method is-config="true" signature="initiateSetup(org.testng.ITestResult)[pri:0, instance:in.redbus.testClasses.HelpsPageTest@7a675056]" started-at="2025-04-08T12:31:09 IST" name="initiateSetup" finished-at="2025-04-08T12:31:13 IST" duration-ms="4518" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=HelpsPageTest.validateHelpsBoxTitleAndsubtitle()[pri:2, instance:in.redbus.testClasses.HelpsPageTest@7a675056] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateSetup -->
+        <test-method signature="validateHelpsBoxTitleAndsubtitle()[pri:2, instance:in.redbus.testClasses.HelpsPageTest@7a675056]" started-at="2025-04-08T12:31:13 IST" name="validateHelpsBoxTitleAndsubtitle" description="Validate Helps Page" finished-at="2025-04-08T12:31:19 IST" duration-ms="5162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHelpsBoxTitleAndsubtitle -->
+        <test-method is-config="true" signature="getReports(org.testng.ITestResult)[pri:0, instance:in.redbus.testClasses.HelpsPageTest@7a675056]" started-at="2025-04-08T12:31:19 IST" name="getReports" finished-at="2025-04-08T12:31:20 IST" duration-ms="1259" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHelpsBoxTitleAndsubtitle status=SUCCESS method=HelpsPageTest.validateHelpsBoxTitleAndsubtitle()[pri:2, instance:in.redbus.testClasses.HelpsPageTest@7a675056] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReports -->
+        <test-method is-config="true" signature="closeReport()[pri:0, instance:in.redbus.testClasses.HelpsPageTest@7a675056]" started-at="2025-04-08T12:31:20 IST" name="closeReport" finished-at="2025-04-08T12:31:21 IST" duration-ms="865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+      </class> <!-- in.redbus.testClasses.HelpsPageTest -->
+    </test> <!-- test -->
+  </suite> <!-- Suite -->
+</testng-results>

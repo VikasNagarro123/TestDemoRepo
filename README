@@ -1,0 +1,8 @@
+For run the code, you need to install the following in machine:TestNG,maven,java.
+The properties file path is: src/main/resources/config.properties
+Configure the properties file according to machine.
+The testng.xml file path is: src/test/resources/testng.xml
+The test classes are in src/test/java/in/redbus/testClasses.
+The test data is in src/main/resources/testData.
+The Log4j properties file path is: src/main/resources/log4j.properties
+For an taking the screenshot and rerun the failed test need to configure the WebListner is in the testng.xml file.

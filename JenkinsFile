@@ -1,0 +1,36 @@
+pipeline {
+    agent any
+
+    stages {
+//         stage('Checkout') {
+//             steps {
+//                 // Checkout code from the repository
+//                 git 'https://github.com/VikasNagarro123/APITesting.git'
+//             }
+//         }
+        stage('Build') {
+            steps {
+                // Run Maven build
+                sh 'mvn clean install'
+            }
+        }
+        stage('Test') {
+            steps {
+                // Run Maven tests
+                sh 'mvn test'
+            }
+        }
+    }
+
+    post {
+
+        success {
+            // Notify success
+            echo 'Build and tests succeeded!'
+        }
+        failure {
+            // Notify failure
+            echo 'Build or tests failed.'
+        }
+    }
+}

@@ -1,0 +1,778 @@
+2024-04-20 10:58:25,187  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 11:00:53,932  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 11:01:29,711  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 11:01:51,474  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 11:02:04,855  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 11:02:04,855  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 11:02:08,424  INFO [main] BaseTest:14 - Clicked on element
+ 2024-04-20 11:02:08,426  INFO [main] BaseTest:51 - Clicked on Train Ticket Box
+ 2024-04-20 11:02:08,426  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 11:02:09,167  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 11:02:10,760  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 11:02:13,574  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 11:02:13,574  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 11:02:13,614  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 11:02:14,070  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 11:02:15,083  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 11:02:16,402  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 11:02:16,402  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 11:02:16,427  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 11:16:25,421  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 11:16:28,281  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 11:16:37,212  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 11:16:37,212  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 11:16:40,324  INFO [main] BaseTest:14 - Clicked on element
+ 2024-04-20 11:16:40,324  INFO [main] BaseTest:51 - Clicked on Train Ticket Box
+ 2024-04-20 11:16:40,475  INFO [main] BaseTest:30 - Entered text in element
+ 2024-04-20 11:16:40,613  INFO [main] BaseTest:30 - Entered text in element
+ 2024-04-20 11:16:40,735  INFO [main] BaseTest:14 - Clicked on element
+ 2024-04-20 11:16:50,857  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 11:16:52,010  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 11:16:53,735  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 11:17:01,790  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 11:17:01,790  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 11:17:06,388  INFO [main] BaseTest:14 - Clicked on element
+ 2024-04-20 11:17:06,388  INFO [main] BaseTest:51 - Clicked on Train Ticket Box
+ 2024-04-20 11:17:06,507  INFO [main] BaseTest:30 - Entered text in element
+ 2024-04-20 11:17:06,637  INFO [main] BaseTest:30 - Entered text in element
+ 2024-04-20 11:17:06,785  INFO [main] BaseTest:14 - Clicked on element
+ 2024-04-20 11:17:16,821  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 11:17:17,566  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 11:17:19,203  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 11:19:07,334  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 11:19:50,516  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 11:20:41,577  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 11:22:00,982  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 11:22:40,337  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 11:23:44,478  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 11:26:30,920  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 11:26:32,262  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 11:27:01,137  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 11:27:03,250  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 11:27:14,256  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 11:27:14,256  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 11:27:14,547  INFO [main] BaseTest:34 - Validated Home Page Header Elements
+ 2024-04-20 11:27:14,547  INFO [main] BaseTest:19 - Validated Home Page Header Elements Successfully...
+ 2024-04-20 11:27:14,559  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 11:27:15,064  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 11:27:16,675  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 11:27:26,507  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 11:27:26,507  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 11:27:26,607  INFO [main] BaseTest:14 - Clicked on element
+ 2024-04-20 11:27:26,607  INFO [main] BaseTest:39 - Clicked on Account Dropdown
+ 2024-04-20 11:27:26,815  INFO [main] BaseTest:46 - Validated Account Options
+ 2024-04-20 11:27:26,815  INFO [main] BaseTest:27 - Validated Account Options Successfully...
+ 2024-04-20 11:27:26,815  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 11:27:27,574  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 11:46:25,162  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 11:46:27,432  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 11:46:36,712  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 11:46:36,712  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 11:46:36,721  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 11:46:37,656  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 11:50:47,552  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 11:50:48,353  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 11:52:04,650  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 11:52:05,299  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 11:54:38,224  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 11:55:50,733  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 11:55:53,518  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 11:56:06,855  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 11:56:06,856  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 11:56:11,538  INFO [main] BaseTest:14 - Clicked on element
+ 2024-04-20 11:56:11,541  INFO [main] BaseTest:51 - Clicked on Train Ticket Box
+ 2024-04-20 11:56:11,542  INFO [main] BaseTest:19 - Entering source as: nasik
+ 2024-04-20 11:56:11,688  INFO [main] BaseTest:30 - Entered text in element
+ 2024-04-20 11:56:11,688  INFO [main] BaseTest:24 - Entering destination as: Manmad
+ 2024-04-20 11:56:11,833  INFO [main] BaseTest:30 - Entered text in element
+ 2024-04-20 11:56:11,833  INFO [main] BaseTest:29 - Entering date
+ 2024-04-20 11:56:11,965  INFO [main] BaseTest:14 - Clicked on element
+ 2024-04-20 11:56:22,041  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 11:56:23,085  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 12:00:23,678  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 12:00:26,471  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 12:00:35,427  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 12:00:35,427  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 12:00:40,506  INFO [main] BaseTest:14 - Clicked on element
+ 2024-04-20 12:00:40,507  INFO [main] BaseTest:51 - Clicked on Train Ticket Box
+ 2024-04-20 12:00:40,507  INFO [main] BaseTest:20 - Entering source as: nasik
+ 2024-04-20 12:00:40,633  INFO [main] BaseTest:30 - Entered text in element
+ 2024-04-20 12:00:40,633  INFO [main] BaseTest:25 - Entering destination as: Manmad
+ 2024-04-20 12:00:40,745  INFO [main] BaseTest:30 - Entered text in element
+ 2024-04-20 12:00:40,746  INFO [main] BaseTest:30 - Entering date
+ 2024-04-20 12:00:40,875  INFO [main] BaseTest:14 - Clicked on element
+ 2024-04-20 12:00:50,963  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 12:00:51,817  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 12:00:55,511  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 12:01:01,309  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 12:01:18,675  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 12:01:18,676  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 12:01:22,877  INFO [main] BaseTest:14 - Clicked on element
+ 2024-04-20 12:01:22,878  INFO [main] BaseTest:51 - Clicked on Train Ticket Box
+ 2024-04-20 12:01:22,879  INFO [main] BaseTest:20 - Entering source as: nasik
+ 2024-04-20 12:01:22,988  INFO [main] BaseTest:30 - Entered text in element
+ 2024-04-20 12:01:22,988  INFO [main] BaseTest:25 - Entering destination as: Manmad
+ 2024-04-20 12:01:23,076  INFO [main] BaseTest:30 - Entered text in element
+ 2024-04-20 12:01:23,076  INFO [main] BaseTest:30 - Entering date
+ 2024-04-20 12:01:23,187  INFO [main] BaseTest:14 - Clicked on element
+ 2024-04-20 12:01:33,248  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 12:01:34,054  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 12:01:35,614  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 12:01:44,365  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 12:01:44,367  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 12:01:48,796  INFO [main] BaseTest:14 - Clicked on element
+ 2024-04-20 12:01:48,796  INFO [main] BaseTest:51 - Clicked on Train Ticket Box
+ 2024-04-20 12:01:48,797  INFO [main] BaseTest:20 - Entering source as: nasik
+ 2024-04-20 12:01:48,911  INFO [main] BaseTest:30 - Entered text in element
+ 2024-04-20 12:01:48,911  INFO [main] BaseTest:25 - Entering destination as: Manmad
+ 2024-04-20 12:01:49,027  INFO [main] BaseTest:30 - Entered text in element
+ 2024-04-20 12:01:49,027  INFO [main] BaseTest:30 - Entering date
+ 2024-04-20 12:01:49,143  INFO [main] BaseTest:14 - Clicked on element
+ 2024-04-20 12:01:59,199  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 12:01:59,882  INFO [main] BaseTest:31 - Screenshot taken
+ 2024-04-20 12:01:59,913  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 12:02:01,036  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 12:21:04,071  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 12:21:10,303  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 12:21:26,215  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 12:21:26,216  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 12:21:29,684  INFO [main] BaseTest:14 - Clicked on element
+ 2024-04-20 12:21:29,685  INFO [main] BaseTest:51 - Clicked on Train Ticket Box
+ 2024-04-20 12:21:29,685  INFO [main] BaseTest:20 - Entering source as: nasik
+ 2024-04-20 12:21:29,803  INFO [main] BaseTest:30 - Entered text in element
+ 2024-04-20 12:21:29,803  INFO [main] BaseTest:25 - Entering destination as: Manmad
+ 2024-04-20 12:21:29,961  INFO [main] BaseTest:30 - Entered text in element
+ 2024-04-20 12:21:29,961  INFO [main] BaseTest:31 - Clicking on search button
+ 2024-04-20 12:21:30,071  INFO [main] BaseTest:14 - Clicked on element
+ 2024-04-20 12:21:30,080  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 12:21:31,083  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 12:41:41,160  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 12:41:44,786  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 12:42:04,546  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 12:42:04,546  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 12:42:04,643  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 12:42:04,671  INFO [main] BaseTest:57 - Clicked on Helps
+ 2024-04-20 12:42:04,689  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 12:42:05,302  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 12:42:07,039  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 12:42:21,436  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 12:42:21,437  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 12:42:21,528  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 12:42:21,558  INFO [main] BaseTest:57 - Clicked on Helps
+ 2024-04-20 12:42:21,573  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 12:42:22,112  INFO [main] BaseTest:31 - Screenshot taken
+ 2024-04-20 12:42:22,119  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 12:42:22,855  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 12:46:56,151  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 12:46:59,860  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 12:47:12,658  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 12:47:12,658  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 12:47:12,747  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 12:47:12,792  INFO [main] BaseTest:57 - Clicked on Helps
+ 2024-04-20 12:47:20,597  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 12:47:21,335  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 12:59:29,454  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 12:59:34,141  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 12:59:52,722  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 12:59:52,723  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 12:59:52,823  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 12:59:52,864  INFO [main] BaseTest:57 - Clicked on Helps
+ 2024-04-20 13:00:01,339  INFO [main] BaseTest:13 - Helps page is validated successfully
+ 2024-04-20 13:00:01,404  INFO [main] BaseTest:15 - Title is validated successfully
+ 2024-04-20 13:00:01,452  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:00:02,403  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 13:00:04,279  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:00:16,048  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 13:00:16,049  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 13:00:16,143  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 13:00:16,185  INFO [main] BaseTest:57 - Clicked on Helps
+ 2024-04-20 13:00:26,385  INFO [main] BaseTest:13 - Helps page is validated successfully
+ 2024-04-20 13:00:26,447  INFO [main] BaseTest:15 - Title is validated successfully
+ 2024-04-20 13:00:26,465  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 13:00:26,664  INFO [main] BaseTest:31 - Screenshot taken
+ 2024-04-20 13:00:26,666  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:00:27,786  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 13:01:45,673  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 13:01:49,238  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:02:00,497  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 13:02:00,497  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 13:02:00,606  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 13:02:00,653  INFO [main] BaseTest:57 - Clicked on Helps
+ 2024-04-20 13:02:06,646  INFO [main] BaseTest:13 - Helps page is validated successfully
+ 2024-04-20 13:02:06,728  INFO [main] BaseTest:15 - Title is validated successfully
+ 2024-04-20 13:02:06,761  INFO [main] BaseTest:17 - SubTitle is validated successfully
+ 2024-04-20 13:02:06,766  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:02:07,626  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 13:04:39,991  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 13:04:43,798  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:04:58,903  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 13:04:58,904  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 13:04:58,986  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 13:04:59,021  INFO [main] BaseTest:57 - Clicked on Helps
+ 2024-04-20 13:05:04,179  INFO [main] BaseTest:14 - Helps page is validated successfully
+ 2024-04-20 13:05:04,286  INFO [main] BaseTest:16 - Title is validated successfully
+ 2024-04-20 13:05:04,315  INFO [main] BaseTest:18 - SubTitle is validated successfully
+ 2024-04-20 13:05:14,402  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:05:15,363  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 13:05:17,078  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:05:26,034  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 13:05:26,034  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 13:05:26,123  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 13:05:26,170  INFO [main] BaseTest:57 - Clicked on Helps
+ 2024-04-20 13:05:30,701  INFO [main] BaseTest:14 - Helps page is validated successfully
+ 2024-04-20 13:05:30,808  INFO [main] BaseTest:16 - Title is validated successfully
+ 2024-04-20 13:05:30,859  INFO [main] BaseTest:18 - SubTitle is validated successfully
+ 2024-04-20 13:05:40,929  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 13:05:41,155  INFO [main] BaseTest:31 - Screenshot taken
+ 2024-04-20 13:05:41,162  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:05:42,184  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 13:10:19,208  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 13:10:23,014  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:10:30,458  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 13:10:30,459  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 13:10:30,568  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 13:10:30,569  INFO [main] BaseTest:56 - Clicked on Helps
+ 2024-04-20 13:10:35,060  INFO [main] BaseTest:15 - Title is validated successfully
+ 2024-04-20 13:10:35,150  INFO [main] BaseTest:17 - SubTitle is validated successfully
+ 2024-04-20 13:10:45,214  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:10:46,292  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 13:10:48,450  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:10:54,172  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 13:10:54,172  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 13:10:54,335  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 13:10:54,335  INFO [main] BaseTest:56 - Clicked on Helps
+ 2024-04-20 13:10:59,917  INFO [main] BaseTest:15 - Title is validated successfully
+ 2024-04-20 13:10:59,973  INFO [main] BaseTest:17 - SubTitle is validated successfully
+ 2024-04-20 13:11:10,022  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 13:11:10,209  INFO [main] BaseTest:31 - Screenshot taken
+ 2024-04-20 13:11:10,217  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:11:11,274  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 13:11:12,882  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:11:20,528  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 13:11:20,529  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 13:11:20,612  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 13:11:20,614  INFO [main] BaseTest:56 - Clicked on Helps
+ 2024-04-20 13:11:20,632  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:11:21,143  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 13:11:23,255  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:11:39,315  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 13:11:44,275  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:11:54,922  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 13:11:54,923  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 13:11:55,086  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 13:11:55,087  INFO [main] BaseTest:56 - Clicked on Helps
+ 2024-04-20 13:12:01,423  INFO [main] BaseTest:24 - Helps page is validated successfully
+ 2024-04-20 13:12:01,705  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:12:03,905  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 13:12:05,850  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:12:14,573  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 13:12:14,574  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 13:12:14,712  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 13:12:14,713  INFO [main] BaseTest:56 - Clicked on Helps
+ 2024-04-20 13:12:21,164  INFO [main] BaseTest:15 - Title is validated successfully
+ 2024-04-20 13:12:21,221  INFO [main] BaseTest:17 - SubTitle is validated successfully
+ 2024-04-20 13:12:31,260  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:12:32,096  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 13:12:33,790  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:12:42,925  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 13:12:42,925  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 13:12:43,001  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 13:12:43,001  INFO [main] BaseTest:56 - Clicked on Helps
+ 2024-04-20 13:12:48,946  INFO [main] BaseTest:15 - Title is validated successfully
+ 2024-04-20 13:12:48,991  INFO [main] BaseTest:17 - SubTitle is validated successfully
+ 2024-04-20 13:12:59,033  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 13:12:59,258  INFO [main] BaseTest:31 - Screenshot taken
+ 2024-04-20 13:12:59,267  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:13:00,302  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 13:14:55,660  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 13:14:59,676  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:15:08,599  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 13:15:08,599  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 13:15:08,697  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 13:15:08,698  INFO [main] BaseTest:56 - Clicked on Helps
+ 2024-04-20 13:15:13,267  INFO [main] BaseTest:22 - Helps page is validated successfully
+ 2024-04-20 13:15:13,327  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:15:14,198  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 13:15:15,994  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:15:25,583  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 13:15:25,584  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 13:15:25,679  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 13:15:25,679  INFO [main] BaseTest:56 - Clicked on Helps
+ 2024-04-20 13:15:30,740  INFO [main] BaseTest:15 - Title is validated successfully
+ 2024-04-20 13:15:30,801  INFO [main] BaseTest:17 - SubTitle is validated successfully
+ 2024-04-20 13:15:30,821  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:15:31,472  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 13:28:08,369  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 13:28:08,383  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 13:28:52,302  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 13:28:52,317  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 13:32:34,390  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 13:32:34,404  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 13:33:53,245  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 13:33:53,255  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 13:35:32,854  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 13:35:37,475  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:35:46,859  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 13:35:46,859  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 13:35:47,047  INFO [main] BaseTest:34 - Validated Home Page Header Elements
+ 2024-04-20 13:35:47,047  INFO [main] BaseTest:20 - Validated Home Page Header Elements Successfully...
+ 2024-04-20 13:35:47,058  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:35:47,791  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 13:35:49,624  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:35:54,971  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 13:35:54,971  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 13:35:55,118  INFO [main] BaseTest:34 - Validated Home Page Header Elements
+ 2024-04-20 13:35:55,119  INFO [main] BaseTest:20 - Validated Home Page Header Elements Successfully...
+ 2024-04-20 13:35:55,120  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 13:35:55,442  INFO [main] BaseTest:31 - Screenshot taken
+ 2024-04-20 13:35:55,446  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:35:56,305  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 13:35:58,288  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:36:06,340  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 13:36:06,341  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 13:36:06,409  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 13:36:06,409  INFO [main] BaseTest:39 - Clicked on Account Dropdown
+ 2024-04-20 13:36:06,579  INFO [main] BaseTest:46 - Validated Account Options
+ 2024-04-20 13:36:06,590  INFO [main] BaseTest:29 - Validated Account Options Successfully...
+ 2024-04-20 13:36:06,591  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:36:07,279  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 13:57:19,977  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 13:57:23,644  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:57:28,347  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 13:57:28,348  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 13:57:28,485  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 13:57:28,687  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 13:57:28,759  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:57:29,859  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 13:58:07,347  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 13:58:10,970  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 13:58:15,893  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 13:58:15,893  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 13:58:15,992  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 13:58:16,167  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 13:58:16,219  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 13:58:16,879  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 14:09:43,610  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 14:09:48,479  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 14:09:59,108  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 14:09:59,109  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 14:09:59,168  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:09:59,281  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:10:10,542  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 14:10:11,992  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 14:10:14,251  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 14:10:19,985  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 14:10:19,985  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 14:10:20,057  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:10:20,189  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:10:31,497  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 14:10:32,352  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 14:13:19,049  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 14:13:24,010  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 14:13:28,734  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 14:13:28,735  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 14:13:28,826  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:13:28,988  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:13:40,027  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 14:13:41,144  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 14:13:42,946  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 14:13:47,094  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 14:13:47,094  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 14:13:47,203  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:13:47,355  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:13:51,455  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 14:13:52,316  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 14:14:51,052  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 14:14:55,881  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 14:15:05,663  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 14:15:05,663  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 14:15:05,811  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:15:06,329  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:15:17,299  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 14:15:18,043  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 14:15:19,872  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 14:15:24,282  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 14:15:24,283  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 14:15:24,472  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:15:24,661  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:15:36,119  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 14:15:36,292  INFO [main] BaseTest:31 - Screenshot taken
+ 2024-04-20 14:15:36,310  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 14:15:37,350  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 14:15:39,163  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 14:15:43,589  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 14:15:43,590  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 14:15:43,717  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:15:43,918  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:15:55,080  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 14:15:55,920  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 14:15:57,672  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 14:16:02,140  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 14:16:02,140  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 14:16:02,252  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:16:02,434  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:16:13,576  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2024-04-20 14:16:13,726  INFO [main] BaseTest:31 - Screenshot taken
+ 2024-04-20 14:16:13,742  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 14:16:14,675  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 14:16:35,016  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 14:16:38,679  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 14:16:43,608  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 14:16:43,609  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 14:16:43,760  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:16:43,760  INFO [main] BaseTest:57 - Clicked on Helps
+ 2024-04-20 14:16:48,497  INFO [main] BaseTest:22 - Helps page is validated successfully
+ 2024-04-20 14:16:48,514  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 14:16:49,453  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 14:16:52,163  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 14:16:57,225  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 14:16:57,226  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 14:16:57,369  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:16:57,369  INFO [main] BaseTest:57 - Clicked on Helps
+ 2024-04-20 14:17:02,546  INFO [main] BaseTest:15 - Title is validated successfully
+ 2024-04-20 14:17:02,600  INFO [main] BaseTest:17 - SubTitle is validated successfully
+ 2024-04-20 14:17:02,608  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 14:17:03,155  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 14:17:41,355  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2024-04-20 14:17:44,855  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 14:17:49,599  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 14:17:49,600  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 14:17:49,778  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:17:49,779  INFO [main] BaseTest:57 - Clicked on Helps
+ 2024-04-20 14:17:54,419  INFO [main] BaseTest:22 - Helps page is validated successfully
+ 2024-04-20 14:17:54,450  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 14:17:55,420  INFO [main] BaseTest:81 - Browser is closed
+ 2024-04-20 14:17:57,261  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2024-04-20 14:18:01,807  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2024-04-20 14:18:01,808  INFO [main] BaseTest:61 - Browser is initiated
+ 2024-04-20 14:18:01,963  INFO [main] BaseTest:17 - Clicked on element
+ 2024-04-20 14:18:01,963  INFO [main] BaseTest:57 - Clicked on Helps
+ 2024-04-20 14:18:06,543  INFO [main] BaseTest:15 - Title is validated successfully
+ 2024-04-20 14:18:06,584  INFO [main] BaseTest:17 - SubTitle is validated successfully
+ 2024-04-20 14:18:06,591  INFO [main] BaseTest:66 - Getting Reports
+ 2024-04-20 14:18:07,387  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 10:54:02,583  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2025-04-08 10:54:15,867  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 10:54:21,752  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 10:54:21,752  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 10:54:22,050  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 10:54:22,050  INFO [main] BaseTest:57 - Clicked on Helps
+ 2025-04-08 10:54:27,018  INFO [main] BaseTest:22 - Helps page is validated successfully
+ 2025-04-08 10:54:27,038  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 10:54:28,386  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 10:54:30,532  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 10:54:35,792  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 10:54:35,792  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 10:54:35,991  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 10:54:35,991  INFO [main] BaseTest:57 - Clicked on Helps
+ 2025-04-08 10:54:39,441  INFO [main] BaseTest:15 - Title is validated successfully
+ 2025-04-08 10:54:39,497  INFO [main] BaseTest:17 - SubTitle is validated successfully
+ 2025-04-08 10:54:39,510  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 10:54:40,847  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 10:55:11,758  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2025-04-08 10:55:15,369  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 10:55:17,464  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 10:55:17,466  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 10:55:18,577  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 10:55:18,581  INFO [main] BaseTest:57 - Clicked on Helps
+ 2025-04-08 10:55:22,121  INFO [main] BaseTest:22 - Helps page is validated successfully
+ 2025-04-08 10:55:22,139  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 10:55:23,247  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 10:55:24,953  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 10:55:26,823  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 10:55:26,827  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 10:55:28,000  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 10:55:28,001  INFO [main] BaseTest:57 - Clicked on Helps
+ 2025-04-08 10:55:31,645  INFO [main] BaseTest:15 - Title is validated successfully
+ 2025-04-08 10:55:31,713  INFO [main] BaseTest:17 - SubTitle is validated successfully
+ 2025-04-08 10:55:31,728  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 10:55:32,792  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 11:05:21,698  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2025-04-08 11:05:23,872  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 11:05:30,273  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 11:05:30,273  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 11:05:30,442  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 11:05:30,442  INFO [main] BaseTest:57 - Clicked on Helps
+ 2025-04-08 11:05:33,733  INFO [main] BaseTest:22 - Helps page is validated successfully
+ 2025-04-08 11:05:33,748  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 11:05:34,937  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 11:05:36,998  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 11:05:42,207  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 11:05:42,208  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 11:05:42,387  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 11:05:42,388  INFO [main] BaseTest:57 - Clicked on Helps
+ 2025-04-08 11:05:46,866  INFO [main] BaseTest:15 - Title is validated successfully
+ 2025-04-08 11:05:47,002  INFO [main] BaseTest:17 - SubTitle is validated successfully
+ 2025-04-08 11:05:47,018  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 11:05:48,834  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 11:06:21,767  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2025-04-08 11:06:25,985  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 11:06:30,094  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 11:06:30,095  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 11:06:30,459  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 11:06:30,460  INFO [main] BaseTest:57 - Clicked on Helps
+ 2025-04-08 11:06:34,673  INFO [main] BaseTest:22 - Helps page is validated successfully
+ 2025-04-08 11:06:34,688  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 11:06:35,836  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 11:06:37,870  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 11:06:38,587  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 11:06:38,588  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 11:06:42,244  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 11:06:42,244  INFO [main] BaseTest:57 - Clicked on Helps
+ 2025-04-08 11:06:45,898  INFO [main] BaseTest:15 - Title is validated successfully
+ 2025-04-08 11:06:45,946  INFO [main] BaseTest:17 - SubTitle is validated successfully
+ 2025-04-08 11:06:45,958  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 11:06:47,199  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 11:20:34,781  INFO [main] BaseTest:54 - Extent Report is initiated
+ 2025-04-08 11:20:38,845  INFO [main] BaseTest:102 - Chrome Browser is initiated
+ 2025-04-08 11:26:37,458  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2025-04-08 11:26:40,702  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 11:26:46,753  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 11:26:46,754  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 11:26:47,132  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 11:26:48,224  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 11:26:50,287  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 11:26:53,791  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 11:26:53,791  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 11:26:54,056  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2025-04-08 11:26:54,464  INFO [main] BaseTest:31 - Screenshot taken
+ 2025-04-08 11:26:54,470  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 11:26:55,423  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 11:26:57,125  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 11:26:59,054  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 11:26:59,056  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 11:27:00,101  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 11:27:00,101  INFO [main] BaseTest:40 - Clicked on Account Dropdown
+ 2025-04-08 11:27:20,312  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 11:27:21,260  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 11:27:22,543  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 11:27:24,047  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 11:27:24,047  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 11:27:24,200  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 11:27:24,200  INFO [main] BaseTest:40 - Clicked on Account Dropdown
+ 2025-04-08 11:27:44,443  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2025-04-08 11:27:44,947  INFO [main] BaseTest:31 - Screenshot taken
+ 2025-04-08 11:27:44,949  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 11:27:45,841  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 11:27:46,186  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2025-04-08 11:28:43,482  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2025-04-08 11:28:45,696  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 11:28:48,151  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 11:28:48,152  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 11:28:48,399  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 11:28:49,249  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 11:28:50,622  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 11:28:54,502  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 11:28:54,504  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 11:28:54,718  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2025-04-08 11:28:55,108  INFO [main] BaseTest:31 - Screenshot taken
+ 2025-04-08 11:28:55,114  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 11:28:56,138  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 11:28:57,853  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 11:28:58,307  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 11:28:58,310  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 11:29:00,439  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 11:29:00,442  INFO [main] BaseTest:40 - Clicked on Account Dropdown
+ 2025-04-08 11:29:20,717  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 11:29:21,604  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 11:29:22,963  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 11:29:25,936  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 11:29:25,936  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 11:29:26,059  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 11:29:26,060  INFO [main] BaseTest:40 - Clicked on Account Dropdown
+ 2025-04-08 11:29:46,277  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2025-04-08 11:29:46,553  INFO [main] BaseTest:31 - Screenshot taken
+ 2025-04-08 11:29:46,558  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 11:29:47,511  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:04:21,927  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2025-04-08 12:04:24,860  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:04:28,858  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:04:28,859  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:04:29,057  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:04:39,144  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:04:40,849  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:04:42,620  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:04:48,881  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:04:48,881  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:04:49,080  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:04:59,124  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2025-04-08 12:04:59,647  INFO [main] BaseTest:31 - Screenshot taken
+ 2025-04-08 12:04:59,654  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:05:02,334  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:05:03,818  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:05:09,443  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:05:09,443  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:05:09,602  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:05:19,666  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:05:20,179  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:05:21,333  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:05:22,737  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:05:22,738  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:05:22,857  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:08:13,189  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2025-04-08 12:08:19,207  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:08:21,952  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:08:21,954  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:08:23,138  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:08:33,184  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:08:34,463  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:08:36,599  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:08:37,231  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:08:37,233  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:08:40,167  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:08:50,211  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2025-04-08 12:08:50,699  INFO [main] BaseTest:31 - Screenshot taken
+ 2025-04-08 12:08:50,712  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:08:52,324  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:08:54,346  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:08:59,145  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:08:59,146  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:08:59,363  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:09:09,437  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:09:11,038  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:09:13,114  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:09:16,835  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:09:16,837  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:09:16,986  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:09:27,016  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2025-04-08 12:09:27,387  INFO [main] BaseTest:31 - Screenshot taken
+ 2025-04-08 12:09:27,390  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:09:28,027  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:13:54,851  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2025-04-08 12:13:59,466  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:14:03,290  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:14:03,291  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:14:03,607  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:14:04,813  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:14:06,588  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:14:08,546  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:14:08,548  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:14:09,788  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2025-04-08 12:14:10,251  INFO [main] BaseTest:31 - Screenshot taken
+ 2025-04-08 12:14:10,258  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:14:11,470  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:14:13,263  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:14:16,986  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:14:16,987  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:14:17,139  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:14:17,140  INFO [main] BaseTest:40 - Clicked on Account Dropdown
+ 2025-04-08 12:14:37,371  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:14:37,992  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:14:39,159  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:14:40,838  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:14:40,839  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:14:41,326  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:14:41,328  INFO [main] BaseTest:40 - Clicked on Account Dropdown
+ 2025-04-08 12:15:01,776  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2025-04-08 12:15:02,097  INFO [main] BaseTest:31 - Screenshot taken
+ 2025-04-08 12:15:02,098  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:15:02,821  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:17:56,741  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2025-04-08 12:18:00,743  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:18:05,022  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:18:05,023  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:18:05,370  INFO [main] BaseTest:35 - Validated Home Page Header Elements
+ 2025-04-08 12:18:05,371  INFO [main] BaseTest:20 - Validated Home Page Header Elements Successfully...
+ 2025-04-08 12:18:05,379  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:18:06,653  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:18:08,557  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:18:09,009  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:18:09,010  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:18:12,323  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:18:12,324  INFO [main] BaseTest:40 - Clicked on Account Dropdown
+ 2025-04-08 12:18:32,602  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:18:33,345  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:18:34,555  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:18:37,089  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:18:37,090  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:18:37,185  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:18:37,185  INFO [main] BaseTest:40 - Clicked on Account Dropdown
+ 2025-04-08 12:18:57,435  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2025-04-08 12:18:57,728  INFO [main] BaseTest:31 - Screenshot taken
+ 2025-04-08 12:18:57,741  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:18:58,530  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:20:32,337  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2025-04-08 12:20:36,964  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:20:42,420  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:20:42,421  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:20:42,689  INFO [main] BaseTest:35 - Validated Home Page Header Elements
+ 2025-04-08 12:20:42,690  INFO [main] BaseTest:20 - Validated Home Page Header Elements Successfully...
+ 2025-04-08 12:20:42,695  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:20:43,731  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:20:45,634  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:20:47,579  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:20:47,585  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:20:48,722  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:20:48,723  INFO [main] BaseTest:40 - Clicked on Account Dropdown
+ 2025-04-08 12:21:08,961  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:21:09,599  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:21:10,761  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:21:12,911  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:21:12,912  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:21:14,439  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:21:14,441  INFO [main] BaseTest:40 - Clicked on Account Dropdown
+ 2025-04-08 12:21:34,613  INFO [main] BaseTest:22 - Test case failed & taking screenshot
+ 2025-04-08 12:21:34,857  INFO [main] BaseTest:31 - Screenshot taken
+ 2025-04-08 12:21:34,861  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:21:35,274  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:22:28,132  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2025-04-08 12:22:33,995  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:22:37,868  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:22:37,869  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:22:38,145  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:22:38,146  INFO [main] BaseTest:57 - Clicked on Helps
+ 2025-04-08 12:22:42,723  INFO [main] BaseTest:22 - Helps page is validated successfully
+ 2025-04-08 12:22:42,738  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:22:43,933  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:22:45,768  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:22:49,330  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:22:49,330  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:22:49,554  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:22:49,555  INFO [main] BaseTest:57 - Clicked on Helps
+ 2025-04-08 12:22:52,597  INFO [main] BaseTest:15 - Title is validated successfully
+ 2025-04-08 12:22:52,639  INFO [main] BaseTest:17 - SubTitle is validated successfully
+ 2025-04-08 12:22:52,652  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:22:53,977  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:23:46,902  INFO [main] BaseTest:53 - Extent Report is initiated
+ 2025-04-08 12:23:51,132  INFO [main] BaseTest:101 - Chrome Browser is initiated
+ 2025-04-08 12:23:53,771  INFO [main] BaseTest:124 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:23:53,772  INFO [main] BaseTest:61 - Browser is initiated
+ 2025-04-08 12:23:54,983  INFO [main] BaseTest:35 - Validated Home Page Header Elements
+ 2025-04-08 12:23:54,985  INFO [main] BaseTest:20 - Validated Home Page Header Elements Successfully...
+ 2025-04-08 12:23:54,995  INFO [main] BaseTest:66 - Getting Reports
+ 2025-04-08 12:23:56,381  INFO [main] BaseTest:81 - Browser is closed
+ 2025-04-08 12:28:07,580  INFO [main] BaseTest:50 - Extent Report is initiated
+ 2025-04-08 12:28:11,788  INFO [main] BaseTest:98 - Chrome Browser is initiated
+ 2025-04-08 12:28:15,912  INFO [main] BaseTest:121 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:28:15,914  INFO [main] BaseTest:58 - Browser is initiated
+ 2025-04-08 12:28:16,996  INFO [main] BaseTest:35 - Validated Home Page Header Elements
+ 2025-04-08 12:28:16,998  INFO [main] BaseTest:20 - Validated Home Page Header Elements Successfully...
+ 2025-04-08 12:28:17,002  INFO [main] BaseTest:63 - Getting Reports
+ 2025-04-08 12:28:18,397  INFO [main] BaseTest:78 - Browser is closed
+ 2025-04-08 12:29:21,278  INFO [main] BaseTest:50 - Extent Report is initiated
+ 2025-04-08 12:29:25,566  INFO [main] BaseTest:98 - Chrome Browser is initiated
+ 2025-04-08 12:29:28,309  INFO [main] BaseTest:121 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:29:28,311  INFO [main] BaseTest:58 - Browser is initiated
+ 2025-04-08 12:29:29,011  INFO [main] BaseTest:35 - Validated Home Page Header Elements
+ 2025-04-08 12:29:29,013  INFO [main] BaseTest:20 - Validated Home Page Header Elements Successfully...
+ 2025-04-08 12:29:29,022  INFO [main] BaseTest:63 - Getting Reports
+ 2025-04-08 12:29:30,448  INFO [main] BaseTest:78 - Browser is closed
+ 2025-04-08 12:30:55,535  INFO [main] BaseTest:50 - Extent Report is initiated
+ 2025-04-08 12:30:59,513  INFO [main] BaseTest:98 - Chrome Browser is initiated
+ 2025-04-08 12:31:02,115  INFO [main] BaseTest:121 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:31:02,118  INFO [main] BaseTest:58 - Browser is initiated
+ 2025-04-08 12:31:03,540  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:31:03,542  INFO [main] BaseTest:57 - Clicked on Helps
+ 2025-04-08 12:31:08,218  INFO [main] BaseTest:22 - Helps page is validated successfully
+ 2025-04-08 12:31:08,234  INFO [main] BaseTest:63 - Getting Reports
+ 2025-04-08 12:31:09,395  INFO [main] BaseTest:78 - Browser is closed
+ 2025-04-08 12:31:11,008  INFO [main] BaseTest:98 - Chrome Browser is initiated
+ 2025-04-08 12:31:13,910  INFO [main] BaseTest:121 - Navigated to URLhttps://www.redbus.in/
+ 2025-04-08 12:31:13,912  INFO [main] BaseTest:58 - Browser is initiated
+ 2025-04-08 12:31:14,994  INFO [main] BaseTest:17 - Clicked on element
+ 2025-04-08 12:31:14,996  INFO [main] BaseTest:57 - Clicked on Helps
+ 2025-04-08 12:31:19,018  INFO [main] BaseTest:15 - Title is validated successfully
+ 2025-04-08 12:31:19,064  INFO [main] BaseTest:17 - SubTitle is validated successfully
+ 2025-04-08 12:31:19,078  INFO [main] BaseTest:63 - Getting Reports
+ 2025-04-08 12:31:20,336  INFO [main] BaseTest:78 - Browser is closed
+ 
