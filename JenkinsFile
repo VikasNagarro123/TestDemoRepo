@@ -20,6 +20,32 @@ pipeline {
                 sh 'mvn test'
             }
         }
+        stage('Publish HTML Report') {
+                    steps {
+                        publishHTML(
+                            allowMissing: false,
+                            alwaysLinkToLastBuild: false,
+                            keepAll: false,
+                            reportDir: './CurrentTestResult/reports/RedBusAutomationReport.html',
+                            reportFiles: 'RedBusAutomationReport.html',
+                            reportName: 'Test Report',
+                            reportTitles: ''
+                        )
+                    }
+                }
+                stage('Send Email') {
+                    steps {
+                        // Use the email-ext plugin to send the email
+                        // Example:
+                        mail(
+                            to: 'vikasburkul1993@gmail.com',
+                            subject: 'Test Report',
+                            body: 'Please find the test report attached.',
+                            attach: './CurrentTestResult/reports/RedBusAutomationReport.html'
+                        )
+                    }
+                }
+            }
     }
 
     post {
